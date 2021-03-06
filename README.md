@@ -53,5 +53,10 @@ Outside of [GitHub](https://github.com/Jeffrs123/), You can **find me<!--. Curre
 [![Linkedin: Jefferson](https://img.shields.io/badge/-Jeffrs123-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeffersonrodriguesdasilva/)](https://www.linkedin.com/in/jeffersonrodriguesdasilva/)
 <!--[![GitHub Jeffrs123](https://img.shields.io/github/followers/Jeffrs123?label=follow&style=social)](https://github.com/Jeffrs123)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeffrs123&show_icons=true&theme=tokyonight) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffrs123&show_icons=true&layout=compact&theme=tokyonight)
+
+
 <p><a href="https://encoderbytes.com">🌐 Check out my website</a></p>
 -->
